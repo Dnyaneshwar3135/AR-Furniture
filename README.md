@@ -1,4 +1,4 @@
-# ARCore Based Android Augmented Reality Furniture App
+  # ARCore Based Android Augmented Reality Furniture App
 
 An ARCore based app where users can virtually "try out" furnitures in their home.
 
